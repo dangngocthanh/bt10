@@ -1,0 +1,28 @@
+.cla{
+    text-align: right;
+}
+.ss{
+    text-align: center;
+}
+.i{
+    background-color: yellow;
+}
+#d{
+    background-color: #fab91b;
+}
+#e{
+    border-collapse: collapse;
+}
+#c{
+    color: #06c1ff;
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-family: Arial;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
